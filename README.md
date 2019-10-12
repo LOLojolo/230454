@@ -2,5 +2,6 @@
 for study purposes
 ciiiiiszaaa
 exitpoll
-pistacje
-rolnicy
+pistacje 45%
+rolnicy 10%
+
